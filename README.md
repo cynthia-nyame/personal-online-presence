@@ -1,4 +1,4 @@
-# Lynda - Single Page portfolio Website
+# Cynthia - Single Page portfolio Website
 This is a single page portfolio website which can easily be customised to suit your needs.
 
 # Technologies used;
